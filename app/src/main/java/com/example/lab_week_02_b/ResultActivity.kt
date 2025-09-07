@@ -65,3 +65,4 @@ class ResultActivity : AppCompatActivity() {
         }
     }
 }
+//Lupa ganti commit message hehe

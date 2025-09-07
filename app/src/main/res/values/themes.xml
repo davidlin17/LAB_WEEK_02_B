@@ -4,7 +4,7 @@
         parent="Theme.Material3.DayNight.NoActionBar">
         ...
     </style>
-    <style name="Theme.LAB_WEEK_02" parent="Base.Theme.LAB_WEEK_02" />
+    <style name="Theme.LAB_WEEK_02_B" parent="Base.Theme.LAB_WEEK_02" />
     <!-- Your custom styles -->
     <style name="text_input"
         parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
